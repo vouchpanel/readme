@@ -1,0 +1,24 @@
+{
+  "name": "vouchpanel",
+  "version": "1.0.0",
+  "description": "The simplest way to embed tweets onto your companies website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vouchpanel/readme.git"
+  },
+  "keywords": [
+    "readme",
+    "vouchpanel",
+    "npm"
+  ],
+  "author": "Vouchpanel Inc.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vouchpanel/readme/issues"
+  },
+  "homepage": "https://github.com/vouchpanel/readme#readme"
+}
