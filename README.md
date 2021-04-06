@@ -10,10 +10,14 @@ Install the appropriate packages with `yarn add` or `npm install`:
 yarn add @vouchpanel/react
 ```
 
+Link to [@vouchpanel/react](https://github.com/vouchpanel/vouchpanel-react)
+
 ## Vue
 ```sh
 yarn add @vouchpanel/vue
 ```
+
+Link to [@vouchpanel/vue](https://github.com/vouchpanel/vouchpanel-vue)
 
 ## Vanilla Javascript
 Embed the following into your site. Replace the `data-wall` value with your own. You can find this value by clicking `Embed` on the vouchpanel site.
